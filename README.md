@@ -1,2 +1,3 @@
-# Algoritmo-Valent-o-bully-
-Um dos modelo de algoritmo de eleição utilizados em Sistemas Distribuídos
+# Algoritmo-Valent-o-bully
+
+Um implementação simpoles de um do modelos de algoritmo de eleição utilizados em Sistemas Distribuídos o Algoritmo valentão
